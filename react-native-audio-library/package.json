@@ -2,7 +2,7 @@
   "name": "react-native-audio-library",
   "title": "React Native Audio Library",
   "version": "1.0.1",
-  "description": "TODO",
+  "description": "音频处理工具",
   "main": "index.js",
   "files": [
     "README.md",
