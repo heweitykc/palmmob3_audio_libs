@@ -3,7 +3,7 @@ import React from 'react';
 import { StyleSheet, Text, View,NativeModules,TouchableHighlight,Image,DeviceEventEmitter } from 'react-native';
 
 
-import * as AudioLibrary from 'react-native-audio-library';
+import * as AudioLibrary from 'palmmob3_audio_libs';
 import * as FileSystem from 'expo-file-system';
 import * as DocumentPicker from 'expo-document-picker';
 

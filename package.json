@@ -1,5 +1,5 @@
 {
-  "name": "react-native-audio-library",
+  "name": "palmmob3_audio_libs",
   "title": "React Native Audio Library",
   "version": "1.0.1",
   "description": "音频处理工具",
@@ -9,15 +9,15 @@
     "android",
     "index.js",
     "ios",
-    "react-native-audio-library.podspec"
+    "palmmob3_audio_libs.podspec"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-audio-library.git",
-    "baseUrl": "https://github.com/github_account/react-native-audio-library"
+    "url": "git+https://github.com/github_account/palmmob3_audio_libs.git",
+    "baseUrl": "https://github.com/github_account/palmmob3_audio_libs"
   },
   "keywords": [
     "react-native"

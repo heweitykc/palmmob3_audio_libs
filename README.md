@@ -1,16 +1,16 @@
-# react-native-audio-library
+# palmmob3_audio_libs
 
 ## Getting started
 
-`$ npm install react-native-audio-library --save`
+`$ npm install palmmob3_audio_libs --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-audio-library`
+`$ react-native link palmmob3_audio_libs`
 
 ## Usage
 ```javascript
-import AudioLibrary from 'react-native-audio-library';
+import AudioLibrary from 'palmmob3_audio_libs';
 
 // TODO: What to do with the module?
 AudioLibrary;
